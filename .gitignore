@@ -1,0 +1,25 @@
+# 의존성 폴더
+node_modules/
+
+# 환경 변수 (민감 정보 보호)
+.env
+.env.local
+
+# 빌드 결과물
+dist/
+build/
+
+# OS 파일
+.DS_Store
+Thumbs.db
+
+# IDE 설정
+.vscode/
+.idea/
+
+# Claude Code 설정
+.claude/
+
+# 로그 파일
+*.log
+npm-debug.log*
